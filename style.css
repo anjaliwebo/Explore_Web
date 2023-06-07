@@ -1,0 +1,45 @@
+
+            body{
+                margin: 0;
+            }
+            header,footer{
+                background-color: rgb(39, 160, 200);
+                color: white;
+                text-align: justify;
+                padding: 50px 200px 70px 20px;
+            }
+            section{
+                padding: 50px 20px;
+                padding-right: 200px;
+            }
+            section p{
+                color: gray;
+                text-align: justify;
+            }
+            .text-blue{
+                color: rgb(30, 133, 170);
+            }
+            #abc{
+                text-align: center;
+                padding-left: 100px;
+                padding-right: 100px;
+                background-color: aquamarine;
+            }
+            #abc>p{
+                text-align: center;
+            }
+            #banner{
+                padding:0 ;
+            }
+            #banner>img{
+                width: 100%;
+            }
+            #gallery{
+                text-align: center;
+                background-color: lightgray;
+                padding: 40px;
+            }
+            #gallery>img{
+                height: 150px;
+                margin: 10px;
+            }
